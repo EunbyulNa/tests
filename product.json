@@ -1,0 +1,18 @@
+
+
+
+{
+  "product" :
+[
+
+{"Name":"가장 보통의 존재","Price":"언니네 이발관","Descript":"2008 X세대를 연대시킨 ","Image":"img/01.jpg"},
+{"Name":"The Life... DOC Blues 5%","Price":"DJ DOC","Descript":"가장 겁없던 도발과 단단한 힙합 애티튜드","Image":"img/02.jpg"},
+{"Name":"Deli Spice","Price":"델리스파이스","Descript":"한국형 모던록의 기초를 쌓은 인디 명반","Image":"img/03.jpg"},
+{"Name":"1집 - 난 알아요","Price":"서태지와 아이들","Descript":"기존 대중음악 문법을 뒤집은 K-Pop의 시초","Image":"img/04.jpg"},
+{"Name":"눈썹달","Price":"이소라","Descript":"대중음악 패러다임을 송두리째 뒤흔든 파격","Image":"img/05.jpg"},
+{"Name":"Force Deux","Price":"듀스","Descript":"흑인음악에 대한 깊은 자의식이 발현된 작품","Image":"img/06.jpg"},
+{"Name":"Life Is Strange","Price":"서울 전자 음악단","Descript":"쉴 공간이 느껴지는 사이키델릭 판타지","Image":"img/07.jpg"}
+
+]
+
+}
